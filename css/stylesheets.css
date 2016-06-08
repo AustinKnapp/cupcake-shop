@@ -1,10 +1,8 @@
-.flashy {
-  color: red;
-  font-style: italic;
+.cool {
+  color: blue;
 }
 
-.best {
-  font-weight: 600;
-  color: gold;
-  font-family: cursive;
+.badass {
+  font-style: italic;
+  color: green;
 }
