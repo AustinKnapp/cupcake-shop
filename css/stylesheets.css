@@ -6,3 +6,14 @@
   font-style: italic;
   color: green;
 }
+
+.column {
+  width: 300px;
+  float: left;
+  background-color: red;
+  font-weight: bold;
+}
+
+.sidebar {
+  float: right;
+  }
